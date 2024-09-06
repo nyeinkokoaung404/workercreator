@@ -9,8 +9,8 @@ NC='\033[0m' # No Color
 # Function to show menu and handle user input
 function show_menu() {
     # Display channel names in colors
-    echo -e "${RED}YOUTUBE: KOLANDONE${NC}"
-    echo -e "${BLUE}TELEGRAM: KOLANDJS${NC}"
+    echo -e "${RED}YOUTUBE: 4̷━━◉━━4̷${NC}"
+    echo -e "${BLUE}TELEGRAM: 4̷━━◉━━4̷${NC}"
 
     echo "Choose an option or type 'exit' to quit:"
     echo "1) List all Workers"
